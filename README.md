@@ -1,7 +1,15 @@
-### Hi there 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Chris+Rogen!;" />
+</h1>
+
+<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+
+<br/>
 
 <!--
 **ChrisRogen/ChrisRogen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
+
 
 Here are some ideas to get you started:
 
