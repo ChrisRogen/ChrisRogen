@@ -25,7 +25,7 @@
   </a>
 
   <a href="https://salesp07.github.io" target="_blank" style="display: inline-block; margin: 20px;">
-    <img src="https://img.shields.io/badge/Portfolio-%23E4405F.svg?logo=Portfolio&logoColor=white" alt="Portfolio" style="width: 90px;">
+    <img src="https://img.shields.io/badge/Portfolio-%23E4405F.svg?logo=todoist&logoColor=white" alt="Portfolio" style="width: 123px;">
   </a>
 </div>
 
