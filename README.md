@@ -1,3 +1,4 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ChrisRogen&label=Profile%20views&color=0e75b6&style=flat" alt="aravindajogi" /> </p>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Chris+Rogen!;" />
 </h1>
@@ -63,12 +64,12 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisRogen&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 
 
+![snake gif](https://github.com/ChrisRogen/ChrisRogen/blob/output/github-contribution-grid-snake.svg)
+
+
 ### 🔝 Top Contributed Repo
 <img src="https://github-contributor-stats.vercel.app/api?username=ChrisRogen&limit=5&theme=blue-green&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats">
 <hr>
-<a href="https://visitcount.itsvg.in" target="_blank">
-  <img src="https://visitcount.itsvg.in/api?id=ChrisRogen&icon=5&color=1" alt="Visitor Count">
-</a>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
