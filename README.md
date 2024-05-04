@@ -81,15 +81,17 @@
 <hr>
 
 
-![snake gif](https://github.com/ChrisRogen/ChrisRogen/blob/output/github-contribution-grid-snake.svg)
-<hr>
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
 **ChrisRogen/ChrisRogen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
+
+
+![snake gif](https://github.com/ChrisRogen/ChrisRogen/blob/output/github-contribution-grid-snake.svg)
+<hr>
+
 
 
 Here are some ideas to get you started:
