@@ -2,16 +2,18 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Chris+Rogen!;" />
 </h1>
-<h3 align="center">A passionate Full-Stack developer from India </h3>
+<h3 align="center"> Aspiring Penetration Tester  </h3>
 <hr>
 <br/>
-
-- 🔭 I’m currently working on Steganography
-- 🌱 I’m currently learning React & Tailwind
-- 💬 Ask me about Full-Stack Project
+- 🔭 I’m currently working on Cybersecurity
+- 🌱 I’m currently learning Penetration Tester 
+- 💬 Ask me about Cybersecurity Project
 <hr>
+ 🎖 Badge:  
 
-## 🌐 Socials:
+<hr>
+ 🌐 Socials:
+ <br/>
 <br>
 
 <div style="text-align: center;">
